@@ -1,0 +1,11 @@
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\bin\Debug\net5.0\NotificationCenter.DTO.deps.json
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\bin\Debug\net5.0\NotificationCenter.DTO.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\bin\Debug\net5.0\ref\NotificationCenter.DTO.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\bin\Debug\net5.0\NotificationCenter.DTO.pdb
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\obj\Debug\net5.0\NotificationCenter.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\obj\Debug\net5.0\NotificationCenter.DTO.AssemblyInfoInputs.cache
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\obj\Debug\net5.0\NotificationCenter.DTO.AssemblyInfo.cs
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\obj\Debug\net5.0\NotificationCenter.DTO.csproj.CoreCompileInputs.cache
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\obj\Debug\net5.0\NotificationCenter.DTO.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\obj\Debug\net5.0\ref\NotificationCenter.DTO.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.DTO\obj\Debug\net5.0\NotificationCenter.DTO.pdb

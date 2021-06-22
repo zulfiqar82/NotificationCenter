@@ -1,0 +1,17 @@
+Here are the instruction to run the project
+
+1. This project is develop in .NET Core 5 using Visual Studio 2019.
+2. Please run "Notification Script" file using Management studio in you SQL Server. It will create required tables
+3. Open code in Visual Studio
+	a. Open Startup.cs file in NotificationCenter project.
+	b. On line 37 change connection string to newly created database in step 1.
+		I. If your server supports integrated security then you only have to change Data Source property to give it you SQL server name.
+		II. Else you have to change authencation mode of connection string to provide username and password.
+4. Once above steps are completed you're good to go and run solution using F5 or Ctrl F5.
+5. You will notice by default it will land you on index.html, the reason behind is that I have added swagger so you could take a look at all the api which are 3 at the moment.
+	a. You can test each one of them 1 by one using index.html.
+	b. "/api/Company" api call will retreive list of companies. I have entered few companies with different configurations.
+6. You can choose a company id and use following api to get its schedule.
+	a. /api/Company/schedule/{Id}
+7. You can also call api direct by using
+	b. https://localhost:[YOUR PORT HERE (IF ANY)]/api/company/schedule/{id}

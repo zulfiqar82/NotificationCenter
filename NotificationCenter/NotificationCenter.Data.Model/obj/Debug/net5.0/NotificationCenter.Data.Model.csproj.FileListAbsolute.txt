@@ -1,0 +1,11 @@
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\bin\Debug\net5.0\NotificationCenter.Data.Model.deps.json
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\bin\Debug\net5.0\NotificationCenter.Data.Model.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\bin\Debug\net5.0\ref\NotificationCenter.Data.Model.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\bin\Debug\net5.0\NotificationCenter.Data.Model.pdb
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\obj\Debug\net5.0\NotificationCenter.Data.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\obj\Debug\net5.0\NotificationCenter.Data.Model.AssemblyInfoInputs.cache
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\obj\Debug\net5.0\NotificationCenter.Data.Model.AssemblyInfo.cs
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\obj\Debug\net5.0\NotificationCenter.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\obj\Debug\net5.0\NotificationCenter.Data.Model.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\obj\Debug\net5.0\ref\NotificationCenter.Data.Model.dll
+C:\Users\zulfiqar.khan\source\repos\Test\NotificationCenter\NotificationCenter.Data.Model\obj\Debug\net5.0\NotificationCenter.Data.Model.pdb
